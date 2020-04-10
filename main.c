@@ -1,3 +1,4 @@
+//rahul-moorkoth
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -17,7 +18,7 @@ int insertNode()
 
  struct node *temp = NULL;
  int inputData;
- printf("\n##################################\n");
+ printf("\n###--------------###############################\n");
  printf("head = %p,  temp = %p \n",head,temp);
 
  //step1
