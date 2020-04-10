@@ -33,6 +33,9 @@ int insertNode()
  temp = (struct node *) malloc(sizeof(struct node));
  temp = (struct node *) malloc(sizeof(struct node));
  temp = (struct node *) malloc(sizeof(struct node));
+ temp = (struct node *) malloc(sizeof(struct node));
+ temp = (struct node *) malloc(sizeof(struct node));
+ temp = (struct node *) malloc(sizeof(struct node));
  if(temp == NULL)
  {
 	 return 1;
